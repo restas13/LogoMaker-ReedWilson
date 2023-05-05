@@ -1,4 +1,6 @@
 <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    
+    <--<polygon points="10, 150 160, 150 85, 10" x="25" y="75" fill="blue"/><polygon/>
+    <!--<rect x="10" y="10" width="150" height="150" fill="red"></rect>-->
+    <circle cx="85" cy="80" r="70" fill="green"/><circle/>
     <text x="85" y="90" font-size="30px" fill="white" text-anchor="middle">SVG</text>
 </svg>
